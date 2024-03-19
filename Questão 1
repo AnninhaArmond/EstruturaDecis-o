@@ -1,0 +1,22 @@
+import static java.util.Scanner;
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello world!");
+       //Declarar as variaveis
+    int nota;
+    while([nota <= 10]){}
+      System.out.printIn ("Digite a 
+      nota");
+        nota=teclado.nextInt();
+       if= (nota valida= 
+       System.out.println();
+       
+       else= System.out.printIn ("Nota 
+       invalida")
+        
+         System.out.printIn ("Digite 
+        novamente");
+        nota=teclado.nextInt();
+        System.out.printIn ("Digite uma 
+        nota");
+          
