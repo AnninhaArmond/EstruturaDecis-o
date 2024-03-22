@@ -1,0 +1,239 @@
+
+Atividades Estrutura de Repetição
+
+import static java.util.Scanner;
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello world!");
+       //Declarar as variaveis
+    int nota;
+    while([nota <= 10]){}
+      System.out.printIn ("Digite a 
+      nota");
+        nota=teclado.nextInt();
+       if= (nota valida= 
+       System.out.println();
+       
+       else= System.out.printIn ("Nota 
+       invalida")
+        
+         System.out.printIn ("Digite 
+        novamente");
+        nota=teclado.nextInt();
+        System.out.printIn ("Digite uma 
+        nota");
+          if= (10> System.out.printIn (" 10")
+            // Declarar a variavel
+              while([ nota <= 10]){}
+
+
+ 
+import static java.util.Scanner;
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello world!");
+       //Declarar as variaveis
+    int (usuario,senha;)
+    while ([ mensagem de erro; senha diferente do usuario])
+      System.out.printIn ("Digite uma senha")
+        senha =teclado.nextInt();
+       if= (usuario> senha> mensagem de erro) 
+       System.out.println();
+       
+       else= System.out.printIn ("usuario: Joao ")
+        
+       System.out.printIn ("senha :1243")
+        
+      senha=teclado.nextInt();
+        System.out.printIn ("senha invalida + usuario ")
+        
+          if= (senha invalida > System.out.printIn ("usuario")
+            // Declarar a variavel
+              while([ usuario: Joao ; senha: 3124]){}
+
+        
+              
+
+             
+
+          
+          //Declarar as variaveis 
+          int nome; idade; sexo; salario;
+          sexo;estado civil;
+          while([nome <= alice])}
+            System.out.printIn (" Digite 
+          o nome:Alice")
+            nome=teclado.nextInt();
+            System.out.printIn (" Digite 
+            a idade")
+            idade=teclado.nextInt("19");
+            System.out.printIn ("Digite o 
+            sexo")
+            sexo=teclado.nextInt("F");
+            System.out.printIn ("Digite o 
+           salario");
+      salario=teclado.nextInt("2000",00");
+        Sysyem.out.printIn ("Digite o 
+        salario civil");
+        civil=teclado.nextInt (" Casado")
+
+          
+          
+        import junit.extensions.ActiveTestSuite;
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello world!");
+       //Declarar as variaveis
+    int nota;
+    while([nota <= 10]){}
+      System.out.printIn ("Digite a 
+      nota");
+        nota=teclado.nextInt();
+       if= (nota valida= 
+       System.out.println();
+       
+       else= System.out.printIn ("Nota 
+       invalida")
+        
+         System.out.printIn ("Digite 
+        novamente");
+        nota=teclado.nextInt();
+        System.out.printIn ("Digite uma 
+        nota");
+          int valor1=teclado.nextInt();
+
+
+         //Declarar as variaveis 
+        int paÃ­s; taxa anual; taxa de 
+        crescimento; habitantes 
+        (população); 
+         int media;
+          int país; taxa anual, taxa de 
+          crescimento;
+          int paí­s A:80000 habitantes: 
+          taxa anual:3%
+              
+          paí­s B:20000 habitantes;taxa 
+          anual:1,5% 
+            System.out.printIn ("Numero de anos necessarios para a população do país A ultrapassar a população  do país B")
+             
+            System.out.printIn (" Digite 
+           o numero de anos")
+            int anos= teclado.nextInt();
+            System.out.printIn ("Digite taxa anual dos pais A e B")
+            int taxa 
+             taxa anual=teclado.nextInt("80000*20000/100")
+               media= (80000+20000/2- "(A media é:50.000  habitantes")
+
+        
+              
+  import static java.util.Scanner;
+import junit.extensions.ActiveTestSuite;
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello world!");
+       //Declarar as variaveis
+    int nota;
+    while([nota <= 10]){}
+      System.out.printIn ("Digite a 
+      nota");
+        nota=teclado.nextInt();
+       if= (nota valida= 
+       System.out.println();
+       
+       else= System.out.printIn ("Nota 
+       invalida")
+        
+         System.out.printIn ("Digite 
+        novamente");
+        nota=teclado.nextInt();
+        System.out.printIn ("Digite uma 
+        nota");
+          int valor1=teclado.nextInt();
+
+
+         //Declarar as variaveis 
+         int numeros; 
+         while(numeros <= 10){}
+         System.out.printIn ("Digite um 
+         numero de 1 a 20")
+        numeros=teclado.nextInt();
+         if= (numeros validos)
+           else=(System.out.printIn 
+           ("Numero")
+           System.out.printIn ("Digite um 
+           numero")
+           int valor2=teclado.nextInt();
+           System.out.printIn ("Mostrar 
+          os numeros")
+          int=([numeros <= 20]);
+            
+             
+           import junit.extensions.ActiveTestSuite;
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello world!");
+       //Declarar as variaveis
+    int nota;
+    while([nota <= 10]){}
+      System.out.printIn ("Digite a 
+      nota");
+        nota=teclado.nextInt();
+       if= (nota valida= 
+       System.out.println();
+       
+       else= System.out.printIn ("Nota 
+       invalida")
+        
+         System.out.printIn ("Digite 
+        novamente");
+        nota=teclado.nextInt();
+        System.out.printIn ("Digite uma 
+        nota");
+          int valor1=teclado.nextInt();
+
+
+         //Declarar as variaveis
+          int gerador de tabuada;
+          int tabuada;
+          int resultado;
+          int numero inteiro
+          System.out.printIn (" Digite a 
+         tabuada");
+        tabuada= teclado.nextIn();
+         tabuada do 7:
+           7x1=7
+           7x2=14
+           7x3=21
+           7x4=28
+           7x5=35
+           7x6=42
+           7x7=49
+           7x8=56 
+           7x9=63
+           7x10=70
+           resultado:("7")
+          
+            
+            
+           
+           
+          
+            
+            
+            
+            
+    
+              
+           
+          
+        
+
+            
+
+        
+
+            
+            
+
+
